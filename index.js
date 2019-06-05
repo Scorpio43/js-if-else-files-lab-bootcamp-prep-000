@@ -6,5 +6,7 @@ if (name === "Susan") {
     console.log("Expected the name to be Susan")
 }
   
-if 
+
+
+if(index) 
 
