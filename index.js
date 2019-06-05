@@ -8,5 +8,7 @@ if (name === "Susan") {
   
 
 
-if(index.height === 70) 
+if(index.height === 70) {
+  
+}
 
