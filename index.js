@@ -9,6 +9,6 @@ if (name === "Susan") {
 
 
 if(index.height === 70) {
-console.log("")
+console.log("The height is correct")
 }
 
